@@ -1,2 +1,2 @@
-# htmlkatusia.github.io
+# katusia.github.io
 табличка
